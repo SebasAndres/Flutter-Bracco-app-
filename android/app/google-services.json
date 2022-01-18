@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668881474366",
+    "firebase_url": "https://braccoweb-894af-default-rtdb.firebaseio.com",
+    "project_id": "braccoweb-894af",
+    "storage_bucket": "braccoweb-894af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668881474366:android:31acdd6c415150782c926f",
+        "android_client_info": {
+          "package_name": "com.neurek.bracco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668881474366-fj4jach8u01k5b3vo19oc0r22dhotvm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVU3shJNFB88wCsnxtrSS32MbS2ZhM6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668881474366-fj4jach8u01k5b3vo19oc0r22dhotvm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

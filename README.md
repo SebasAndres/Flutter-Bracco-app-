@@ -1,12 +1,16 @@
-# bracco-app
-A flutter app to manage a hairdressing-shop using Google Firebase.
+# bracco_app
 
-The app allows you to register clients, types of services, workers, stores and dates. Therefore you can check whenever a client should arrange a visit and the app uses Whatsapp Api
-to redirect you to send a pre-modeled message. You can also see the stats and the list of clients within a private sector only available to the manager (through a password).
-The manager is also able to set the comision of each worker in every work done by them.
+Aplicación de Bracco
 
+## Getting Started
 
-## Google Drive folder
+This project is a starting point for a Flutter application.
 
-> https://drive.google.com/drive/folders/1EMqDQT6L3aMnvkohW6lFu6aDhg67r5ny?usp=sharing
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
